@@ -1,0 +1,9 @@
+# Core Data Analytics & Numerical Computing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Scientific Visualization & Embedded Charts
+matplotlib>=3.7.0
+
+# Excel File Support (.xlsx)
+openpyxl>=3.1.0

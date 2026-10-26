@@ -1,0 +1,454 @@
+Accident_ID,Date,Time,City,Severity,Weather,Road_Surface,Light_Condition,Vehicles_Involved,Casualties,Latitude,Longitude
+ACC-2023001,2023-01-13,11:14,Phoenix,Serious,Clear,Dry,Daylight,2,1,33.46827,-112.07953
+ACC-2023002,2023-02-17,09:38,New York,Minor,Clear,Dry,Daylight,2,0,40.73871,-73.94508
+ACC-2023003,2024-02-19,11:44,Houston,Minor,Clear,Dry,Daylight,2,0,29.75103,-95.37917
+ACC-2023004,2023-07-03,14:16,Chicago,Minor,Overcast,Dry,Daylight,3,0,41.94127,-87.5991
+ACC-2023005,2024-02-29,18:36,Houston,Serious,Clear,Dry,Daylight,2,3,29.74162,-95.3481
+ACC-2023006,2024-03-19,08:29,Austin,Minor,Rainy,Wet,Daylight,1,0,30.24866,-97.76173
+ACC-2023007,2023-11-28,09:10,Seattle,Minor,Clear,Dry,Daylight,1,1,47.61588,-122.40863
+ACC-2023008,2023-04-23,10:14,Philadelphia,Minor,Overcast,Dry,Daylight,1,1,39.8836,-75.18769
+ACC-2023009,2024-01-03,19:25,Houston,Minor,Overcast,Dry,Dusk/Dawn,2,0,29.71989,-95.35723
+ACC-2023010,2023-08-08,02:23,Philadelphia,Minor,Clear,Wet,Darkness - Street Lights Lit,1,0,39.91628,-75.22169
+ACC-2023011,2024-02-10,14:04,Phoenix,Minor,Clear,Dry,Daylight,1,0,33.50703,-112.08303
+ACC-2023012,2023-12-15,15:56,Seattle,Minor,Clear,Dry,Daylight,1,0,47.6089,-122.38909
+ACC-2023013,2024-05-03,15:16,Chicago,Minor,Snow,Snow,Daylight,1,1,41.85632,-87.62536
+ACC-2023014,2023-09-17,17:23,Austin,Serious,Rainy,Wet,Daylight,2,1,30.22116,-97.72807
+ACC-2023015,2023-01-10,08:56,Los Angeles,Minor,Snow,Snow,Daylight,1,0,34.02817,-118.25537
+ACC-2023016,2024-01-10,16:48,New York,Minor,Clear,Dry,Daylight,2,0,40.68873,-73.93191
+ACC-2023017,2023-11-07,17:59,Houston,Minor,Clear,Dry,Daylight,1,2,29.75986,-95.41211
+ACC-2023018,2023-08-13,03:07,Phoenix,Minor,Clear,Dry,Darkness - Street Lights Lit,2,0,33.4813,-112.12283
+ACC-2023019,2023-01-31,07:55,Philadelphia,Minor,Clear,Dry,Daylight,2,0,39.96095,-75.24359
+ACC-2023020,2024-03-27,19:15,Philadelphia,Minor,Rainy,Wet,Dusk/Dawn,1,0,39.89947,-75.15733
+ACC-2023021,2024-01-09,09:41,Chicago,Minor,Clear,Dry,Daylight,2,0,41.90764,-87.62295
+ACC-2023022,2023-08-18,07:17,Los Angeles,Minor,Clear,Dry,Daylight,2,1,34.04757,-118.25574
+ACC-2023023,2023-11-30,20:05,New York,Minor,Foggy,Dry,Dusk/Dawn,1,0,40.65366,-74.03479
+ACC-2023024,2023-07-14,08:16,New York,Minor,Foggy,Wet,Daylight,2,1,40.69437,-73.96372
+ACC-2023025,2023-12-05,11:12,Dallas,Minor,Clear,Wet,Daylight,2,1,32.79044,-96.86752
+ACC-2023026,2023-10-27,17:03,New York,Minor,,Icy,Daylight,2,1,40.72576,-74.0214
+ACC-2023027,2023-03-03,05:15,Los Angeles,Serious,Rainy,Wet,Dusk/Dawn,2,1,34.02512,-118.21923
+ACC-2023028,2023-12-09,11:16,Los Angeles,Minor,Clear,Dry,Daylight,1,1,34.09344,-118.20645
+ACC-2023029,2023-08-23,16:04,New York,Minor,Clear,Dry,Daylight,1,0,40.67923,-74.01837
+ACC-2023030,2023-05-26,09:45,Los Angeles,Serious,Clear,Wet,Daylight,2,2,34.06545,-118.20468
+ACC-2023031,2024-04-22,11:16,Houston,Minor,Clear,Dry,Daylight,1,1,29.74123,-95.37723
+ACC-2023032,2023-04-15,12:32,Philadelphia,Serious,Clear,Dry,Daylight,1,1,39.90835,-75.21305
+ACC-2023033,2023-01-02,17:40,Los Angeles,Minor,Snow,Icy,Daylight,2,0,34.0847,-118.18945
+ACC-2023034,2024-04-28,22:34,New York,Minor,Clear,Dry,Darkness - Street Lights Lit,1,0,40.70992,-73.96586
+ACC-2023035,2024-05-12,12:13,Seattle,Minor,Rainy,Wet,Daylight,2,1,47.62067,-122.3579
+ACC-2023036,2024-01-19,07:55,Denver,Minor,Clear,Dry,Daylight,1,0,39.75366,-104.92878
+ACC-2023037,2024-02-05,06:55,Seattle,Minor,Rainy,Wet,Daylight,2,0,47.60477,-122.26951
+ACC-2023038,2023-08-29,08:22,New York,Minor,Clear,Dry,Daylight,1,0,40.60801,-73.97312
+ACC-2023039,2024-03-18,08:22,Los Angeles,Fatal,Rainy,Wet,Daylight,2,3,34.05568,-118.25566
+ACC-2023040,2024-05-11,18:02,New York,Serious,Clear,Dry,Daylight,2,1,40.71647,-74.0855
+ACC-2023041,2023-07-17,23:16,Houston,Serious,Clear,Dry,Darkness - Street Lights Lit,2,3,29.75161,-95.35552
+ACC-2023042,2023-04-11,16:42,Philadelphia,Serious,Foggy,Wet,Daylight,1,3,40.01172,-75.18593
+ACC-2023043,2023-12-08,19:44,Houston,Fatal,Clear,Dry,Darkness - Street Lights Lit,2,3,29.72806,-95.38987
+ACC-2023044,2023-06-04,16:19,Phoenix,Minor,Clear,Dry,Daylight,2,0,33.48502,-112.06085
+ACC-2023045,2023-04-20,17:42,Chicago,Minor,Clear,Dry,Daylight,1,1,41.85691,-87.60927
+ACC-2023046,2023-12-11,17:09,Philadelphia,Minor,Clear,Dry,Daylight,2,0,39.95648,-75.12645
+ACC-2023047,2023-11-19,19:31,Chicago,Serious,Clear,Dry,Darkness - Street Lights Lit,3,2,41.85002,-87.64291
+ACC-2023048,2023-04-23,09:33,Dallas,Fatal,Clear,Dry,Daylight,1,1,32.76102,-96.85554
+ACC-2023049,2023-09-29,05:20,Chicago,Serious,Foggy,Dry,Darkness - Street Lights Lit,2,2,41.88994,-87.61936
+ACC-2023050,2024-04-04,08:28,Houston,Minor,Clear,Dry,Daylight,2,0,29.7606,-95.37918
+ACC-2023051,2023-05-21,18:15,Phoenix,Minor,Clear,Dry,Daylight,1,0,33.39179,-112.09083
+ACC-2023052,2023-12-28,08:26,Philadelphia,Minor,Clear,Dry,Daylight,2,0,39.93889,-75.19729
+ACC-2023053,2024-04-29,14:24,Dallas,Minor,Clear,Wet,Daylight,1,1,32.77025,-96.78084
+ACC-2023054,2023-10-03,14:51,Dallas,Minor,Rainy,Wet,Daylight,1,0,32.85215,-96.79002
+ACC-2023055,2023-12-14,15:10,Los Angeles,Fatal,Overcast,Dry,Daylight,2,3,34.0625,-118.24668
+ACC-2023056,2023-12-06,09:27,Phoenix,Minor,Clear,Dry,Daylight,1,0,33.37165,-112.07506
+ACC-2023057,2024-01-25,12:48,Los Angeles,Serious,Foggy,Damp,Daylight,2,2,34.05461,-118.14517
+ACC-2023058,2024-05-02,16:49,New York,Minor,Foggy,Damp,Daylight,1,1,40.70511,-73.99394
+ACC-2023059,2023-05-03,09:07,Phoenix,Serious,Rainy,Wet,Daylight,2,1,33.44701,-112.12075
+ACC-2023060,2024-01-18,11:19,Phoenix,Minor,Clear,Dry,Daylight,2,2,33.49411,-112.04392
+ACC-2023061,2024-01-02,09:44,Chicago,Serious,Overcast,,Daylight,2,2,41.90974,-87.66618
+ACC-2023062,2024-02-12,20:22,Dallas,Minor,Clear,Dry,Dusk/Dawn,1,0,32.83281,-96.85307
+ACC-2023063,2023-08-10,06:57,Houston,Minor,Overcast,Dry,Daylight,2,2,29.78387,-95.28218
+ACC-2023064,2024-02-18,03:29,Los Angeles,Serious,Clear,Dry,Darkness - Street Lights Lit,2,1,34.01258,-118.26635
+ACC-2023065,2023-05-05,14:39,Austin,Minor,Rainy,Wet,Daylight,1,0,30.27119,-97.76324
+ACC-2023066,2023-05-13,18:35,Chicago,Minor,Clear,Wet,Daylight,2,0,41.81607,-87.62706
+ACC-2023067,2023-12-20,19:28,Philadelphia,Serious,Rainy,Wet,Dusk/Dawn,2,1,39.91011,-75.14626
+ACC-2023068,2023-09-29,18:22,Chicago,Minor,Rainy,Wet,Daylight,1,0,41.84132,-87.5678
+ACC-2023069,2023-10-02,22:12,New York,Fatal,Clear,Dry,Darkness - Street Lights Lit,2,1,40.68147,-74.01888
+ACC-2023070,2023-04-10,18:11,New York,Minor,Clear,Dry,Daylight,1,0,40.74534,-74.05523
+ACC-2023071,2024-04-28,08:06,Los Angeles,Minor,Overcast,Dry,Daylight,1,0,34.0613,-118.19141
+ACC-2023072,2024-04-26,10:52,New York,Minor,Clear,Dry,Daylight,2,0,40.6485,-73.99861
+ACC-2023073,2024-04-30,17:07,Dallas,Serious,Rainy,Wet,Daylight,2,2,32.7871,-96.76573
+ACC-2023074,2024-04-10,19:19,Chicago,Minor,Rainy,Wet,Darkness - Street Lights Lit,2,1,41.82862,-87.68262
+ACC-2023075,2023-02-11,07:35,Los Angeles,Minor,Clear,Dry,Daylight,2,0,34.07308,-118.23182
+ACC-2023076,2023-12-28,19:04,Los Angeles,Serious,Rainy,Flooded,Darkness - Street Lights Lit,2,3,34.06222,-118.22984
+ACC-2023077,2023-10-06,07:58,Chicago,Minor,Clear,Dry,Daylight,2,0,41.8509,-87.62051
+ACC-2023078,2024-04-16,16:29,Dallas,Fatal,Rainy,Wet,Daylight,2,1,32.78842,-96.82557
+ACC-2023079,2023-01-21,01:38,New York,Serious,Clear,Dry,Darkness - No Lights,2,3,40.78743,-73.98705
+ACC-2023080,2023-12-11,14:02,Denver,Minor,Rainy,Wet,Daylight,1,0,39.69155,-104.96404
+ACC-2023081,2023-08-12,19:05,Denver,Minor,Clear,Dry,Dusk/Dawn,1,0,39.70021,-104.95882
+ACC-2023082,2023-12-06,04:02,Houston,Fatal,Clear,Dry,Darkness - Street Lights Lit,2,2,29.80674,-95.40263
+ACC-2023083,2023-12-03,13:26,Denver,Minor,Clear,Dry,Daylight,2,0,39.77774,-104.97379
+ACC-2023084,2023-05-17,18:28,New York,Minor,Overcast,Dry,Daylight,2,1,40.74568,-73.93013
+ACC-2023085,2023-06-09,19:05,Philadelphia,Fatal,Clear,Dry,Dusk/Dawn,2,1,39.94278,-75.19535
+ACC-2023086,2023-05-30,18:26,Seattle,Minor,Overcast,Wet,Daylight,2,0,47.57062,-122.36473
+ACC-2023087,2023-09-18,11:55,Seattle,Serious,Clear,Dry,Daylight,2,2,47.60312,-122.31845
+ACC-2023088,2023-01-02,18:53,Los Angeles,Minor,Rainy,Dry,Daylight,1,0,34.06327,-118.21061
+ACC-2023089,2023-10-10,13:29,Chicago,Fatal,Foggy,Dry,Daylight,2,1,41.87862,-87.57166
+ACC-2023090,2023-07-30,09:30,Austin,Minor,Rainy,Wet,Daylight,2,1,30.25661,-97.63429
+ACC-2023091,2023-09-11,22:32,Denver,Serious,Snow,Icy,Darkness - Street Lights Lit,1,3,39.76423,-105.02459
+ACC-2023092,2023-03-15,17:04,New York,Minor,Clear,Wet,Daylight,2,1,40.66996,-73.9867
+ACC-2023093,2024-03-12,14:24,Austin,Fatal,Foggy,Wet,Daylight,2,2,30.25826,-97.71454
+ACC-2023094,2023-05-01,18:14,Phoenix,Minor,Rainy,Wet,Daylight,2,1,33.46733,-112.07691
+ACC-2023095,2023-12-22,16:02,Chicago,Minor,Clear,Dry,Daylight,1,0,41.84423,-87.69039
+ACC-2023096,2023-12-16,11:11,Chicago,Minor,Clear,Dry,Daylight,1,1,41.86024,-87.59554
+ACC-2023097,2023-08-25,19:16,New York,Minor,Rainy,Flooded,Darkness - Street Lights Lit,2,0,40.72136,-74.05583
+ACC-2023098,2023-10-28,19:44,Seattle,Minor,Clear,Dry,Dusk/Dawn,2,0,47.61313,-122.31669
+ACC-2023099,2023-10-22,18:01,Houston,Minor,Snow,Snow,Daylight,2,1,29.72505,-95.36365
+ACC-2023100,2023-01-26,03:53,Philadelphia,Serious,Foggy,Damp,Darkness - No Lights,2,1,39.95493,-75.21092
+ACC-2023101,2023-12-14,15:43,Phoenix,Fatal,Overcast,Dry,Daylight,2,1,33.46271,-112.05157
+ACC-2023102,2023-10-24,17:05,Chicago,Minor,Foggy,Damp,Daylight,1,1,41.92142,-87.58765
+ACC-2023103,2023-07-07,18:53,Austin,Fatal,Clear,Dry,Daylight,4,1,30.21209,-97.78061
+ACC-2023104,2024-02-16,07:09,Austin,Serious,Rainy,Wet,Daylight,2,1,30.2878,-97.72255
+ACC-2023105,2023-10-13,19:00,Austin,Serious,Clear,Dry,Dusk/Dawn,1,1,30.2878,-97.58899
+ACC-2023106,2023-07-10,07:30,Phoenix,Minor,Clear,Dry,Daylight,2,0,33.47124,-112.02858
+ACC-2023107,2024-02-26,18:41,New York,Fatal,Clear,Dry,Daylight,2,1,40.75096,-73.97994
+ACC-2023108,2024-03-30,19:29,New York,Minor,Clear,Wet,Darkness - Street Lights Lit,2,1,40.70019,-73.97564
+ACC-2023109,2023-12-02,08:39,Austin,Minor,Clear,Wet,Daylight,1,0,30.23629,-97.75257
+ACC-2023110,2024-03-13,18:34,Denver,Minor,Foggy,Wet,Daylight,1,2,39.71979,-104.98703
+ACC-2023111,2024-02-26,17:41,Seattle,Minor,Rainy,Dry,,1,2,47.69879,-122.40679
+ACC-2023112,2023-04-16,09:13,Dallas,Minor,Rainy,Wet,Daylight,2,1,32.80415,-96.86151
+ACC-2023113,2023-05-22,11:08,Phoenix,Minor,Clear,Dry,Daylight,2,0,33.42952,-112.03044
+ACC-2023114,2024-02-08,08:01,Chicago,Serious,Clear,Dry,Daylight,2,2,41.88067,-87.67291
+ACC-2023115,2024-02-03,16:28,Chicago,Minor,Clear,Wet,Daylight,2,1,41.84949,-87.60262
+ACC-2023116,2023-08-23,16:03,Houston,Minor,Snow,Snow,Daylight,1,1,29.73119,-95.36114
+ACC-2023117,2024-04-05,09:09,Chicago,Minor,Clear,Dry,Daylight,2,0,41.87992,-87.65586
+ACC-2023118,2023-09-29,19:06,Denver,Fatal,Rainy,Wet,Darkness - Street Lights Lit,2,3,39.82496,-104.96494
+ACC-2023119,2024-03-30,08:52,Chicago,Minor,Clear,Dry,Daylight,1,1,41.79709,-87.62234
+ACC-2023120,2023-03-20,13:04,Chicago,Minor,Clear,Dry,Daylight,2,0,41.85163,-87.5957
+ACC-2023121,2023-01-31,18:42,New York,Serious,Clear,Dry,Daylight,2,2,40.6811,-74.01059
+ACC-2023122,2024-05-10,18:22,Philadelphia,Minor,Clear,Dry,Daylight,2,1,39.9728,-75.13057
+ACC-2023123,2023-10-12,18:36,Chicago,Minor,Clear,Dry,Daylight,2,1,41.83009,-87.64318
+ACC-2023124,2023-10-13,09:53,Philadelphia,Minor,Rainy,Wet,Daylight,2,1,39.9336,-75.19133
+ACC-2023125,2023-04-03,14:42,Chicago,Minor,Clear,Dry,Daylight,1,1,41.94872,-87.6136
+ACC-2023126,2023-08-03,17:23,Los Angeles,Fatal,Clear,Dry,Daylight,2,3,34.00176,-118.20699
+ACC-2023127,2024-01-22,16:17,New York,Minor,Clear,Dry,Daylight,1,0,40.79769,-73.9647
+ACC-2023128,2023-06-26,18:43,Houston,Serious,Rainy,Wet,Daylight,1,1,29.69963,-95.38917
+ACC-2023129,2023-01-04,07:49,Phoenix,Minor,Clear,Dry,Daylight,1,1,33.49908,-112.10231
+ACC-2023130,2023-07-14,17:32,New York,Minor,Rainy,Wet,Daylight,1,1,40.73055,-73.97501
+ACC-2023131,2023-08-24,01:36,Chicago,Minor,Clear,Dry,Darkness - Street Lights Lit,1,2,41.84102,-87.63218
+ACC-2023132,2024-04-30,18:05,New York,Minor,Clear,Dry,Daylight,1,0,40.58315,-74.04698
+ACC-2023133,2024-01-17,18:49,Austin,Minor,Clear,Dry,Daylight,2,1,30.2571,-97.79301
+ACC-2023134,2024-01-08,06:52,Chicago,Minor,Clear,Dry,Daylight,1,0,41.9434,-87.68701
+ACC-2023135,2023-02-08,09:31,Philadelphia,Minor,Clear,Dry,Daylight,2,1,39.935,-75.15997
+ACC-2023136,2023-11-16,18:09,Phoenix,Minor,Clear,Dry,Daylight,2,0,33.50605,-112.13143
+ACC-2023137,2023-02-07,19:02,Chicago,Serious,Clear,Dry,Dusk/Dawn,3,1,41.92463,-87.62939
+ACC-2023138,2023-08-25,16:28,Houston,Minor,Foggy,Wet,Daylight,2,0,29.72114,-95.35132
+ACC-2023139,2023-08-19,08:45,Denver,Minor,Clear,Dry,Daylight,2,2,39.74716,-105.01431
+ACC-2023140,2023-11-09,08:58,Houston,Minor,Clear,Dry,Daylight,2,1,29.76319,-95.38521
+ACC-2023141,2023-02-03,19:18,Phoenix,Minor,Clear,Dry,Darkness - Street Lights Lit,1,0,33.45294,-112.04751
+ACC-2023142,2024-04-14,19:08,Phoenix,Minor,Rainy,Flooded,Dusk/Dawn,2,1,33.51184,-112.12351
+ACC-2023143,2024-02-29,06:58,Philadelphia,Minor,Clear,Dry,Daylight,1,0,40.03792,-75.24328
+ACC-2023144,2023-04-20,19:12,Los Angeles,Serious,Clear,Dry,Dusk/Dawn,1,2,34.04613,-118.22017
+ACC-2023145,2024-03-28,18:56,Dallas,Minor,Rainy,Wet,Daylight,1,1,32.78794,-96.82191
+ACC-2023146,2024-02-19,03:02,Dallas,Minor,Clear,Dry,Darkness - Street Lights Lit,1,1,32.76838,-96.81672
+ACC-2023147,2023-10-01,08:57,Chicago,Fatal,Overcast,Dry,Daylight,4,1,41.85453,-87.59582
+ACC-2023148,2023-07-15,19:10,Los Angeles,Minor,Overcast,Dry,Dusk/Dawn,2,1,34.06648,-118.27142
+ACC-2023149,2023-02-22,14:54,Houston,Minor,Clear,Dry,Daylight,1,0,29.79638,-95.35751
+ACC-2023150,2023-02-16,23:52,Dallas,Minor,Clear,Dry,Darkness - Street Lights Lit,2,0,32.80921,-96.77181
+ACC-2023151,2023-07-11,08:59,Denver,Minor,Clear,Dry,Daylight,1,0,39.70604,-105.01271
+ACC-2023152,2023-08-30,11:48,Seattle,Minor,Rainy,Wet,Daylight,1,0,47.63609,-122.30769
+ACC-2023153,2023-10-08,05:33,Dallas,Minor,Clear,Dry,Dusk/Dawn,1,1,32.77586,-96.79231
+ACC-2023154,2023-02-02,08:38,Phoenix,Minor,Clear,Dry,Daylight,2,0,33.49951,-112.09766
+ACC-2023155,2023-06-30,08:11,New York,Fatal,Rainy,Wet,Daylight,1,2,40.73468,-74.01409
+ACC-2023156,2023-09-17,19:55,Houston,Minor,Clear,Dry,Darkness - Street Lights Lit,1,1,29.75169,-95.32585
+ACC-2023157,2024-01-11,10:49,Chicago,Minor,Rainy,Wet,Daylight,1,0,41.91112,-87.59726
+ACC-2023158,2024-03-01,13:44,Phoenix,Minor,Clear,Dry,Daylight,2,1,33.50062,-112.07316
+ACC-2023159,2023-04-14,07:56,New York,Minor,Clear,Wet,Daylight,3,0,40.74008,-74.01841
+ACC-2023160,2024-01-21,18:22,Los Angeles,Minor,Overcast,Dry,Daylight,1,1,34.06517,-118.24891
+ACC-2023161,2023-07-24,13:21,Chicago,Minor,Snow,Icy,Daylight,2,0,41.88198,-87.60599
+ACC-2023162,2024-01-08,19:38,Dallas,Minor,Snow,Icy,Dusk/Dawn,1,0,32.74397,-96.7133
+ACC-2023163,2024-01-03,19:22,Chicago,Minor,Clear,Dry,Darkness - Street Lights Lit,1,1,41.83786,-87.67837
+ACC-2023164,2023-01-30,09:25,Dallas,Serious,Clear,Dry,Daylight,3,1,32.82302,-96.76533
+ACC-2023165,2024-02-05,17:04,Phoenix,Minor,Clear,Dry,Daylight,2,0,33.47336,-112.04887
+ACC-2023166,2023-08-19,01:28,New York,Minor,Rainy,Wet,Darkness - Street Lights Lit,2,0,40.71231,-74.04189
+ACC-2023167,2024-01-12,09:24,New York,Serious,Foggy,Damp,Daylight,2,1,40.71583,-74.03309
+ACC-2023168,2023-12-22,03:12,Phoenix,Serious,Clear,Dry,Darkness - Street Lights Lit,2,1,33.4874,-112.07988
+ACC-2023169,2024-03-08,06:22,Philadelphia,Minor,Rainy,Wet,Daylight,1,0,39.91958,-75.17806
+ACC-2023170,2023-12-25,18:32,Philadelphia,Serious,Clear,Wet,Daylight,1,1,39.96912,-75.18775
+ACC-2023171,2023-10-21,17:39,Chicago,Minor,Overcast,Dry,Daylight,2,0,41.84521,-87.62005
+ACC-2023172,2023-07-29,10:08,Chicago,Minor,Snow,Snow,Daylight,2,0,41.8879,-87.65008
+ACC-2023173,2024-02-04,17:49,Austin,Fatal,Snow,Icy,Daylight,1,1,30.24836,-97.73382
+ACC-2023174,2023-03-26,09:14,New York,Serious,Clear,Wet,Daylight,2,1,40.65488,-74.0623
+ACC-2023175,2023-10-10,18:39,Phoenix,Minor,Clear,Dry,Daylight,2,0,33.41966,-112.08254
+ACC-2023176,2024-01-04,01:53,Phoenix,Minor,Foggy,Damp,Darkness - No Lights,2,1,33.46084,-112.01499
+ACC-2023177,2023-04-18,13:39,Los Angeles,Serious,Rainy,Wet,Daylight,1,3,34.08651,-118.2501
+ACC-2023178,2024-02-17,13:19,Houston,Minor,Clear,Dry,Daylight,1,0,29.75964,-95.4099
+ACC-2023179,2023-03-15,18:46,Chicago,Minor,Snow,Icy,Daylight,2,0,41.87736,-87.64135
+ACC-2023180,2023-05-04,18:28,New York,Minor,Clear,Dry,Daylight,1,1,40.72571,-74.03909
+ACC-2023181,2024-03-19,01:59,Los Angeles,Minor,Rainy,Wet,Darkness - No Lights,2,0,34.07297,-118.18239
+ACC-2023182,2023-01-12,08:32,Los Angeles,Minor,Clear,Dry,Daylight,1,0,34.04785,-118.22763
+ACC-2023183,2024-03-07,13:18,Phoenix,Minor,Clear,Dry,Daylight,2,1,33.47601,-112.09005
+ACC-2023184,2023-07-07,07:36,Dallas,Minor,Rainy,Wet,Daylight,1,0,32.78566,-96.7965
+ACC-2023185,2024-02-27,06:39,Houston,Minor,Clear,Wet,Daylight,2,0,29.76431,-95.40072
+ACC-2023186,2024-01-22,09:32,Seattle,Minor,Clear,Dry,Daylight,2,1,47.60718,-122.31218
+ACC-2023187,2023-03-18,17:20,Houston,Minor,Foggy,Damp,Daylight,2,1,29.81845,-95.33143
+ACC-2023188,2023-09-17,14:31,Phoenix,Serious,Rainy,Wet,Daylight,2,2,33.53453,-112.10469
+ACC-2023189,2023-10-26,16:38,Denver,Serious,Clear,Wet,Daylight,2,1,39.77409,-104.98297
+ACC-2023190,2023-10-26,19:09,Philadelphia,Serious,Overcast,Dry,Darkness - Street Lights Lit,1,1,40.04019,-75.19753
+ACC-2023191,2023-07-31,13:32,Chicago,Fatal,Rainy,Flooded,Daylight,3,1,41.84451,-87.65378
+ACC-2023192,2023-04-17,19:33,New York,Minor,Clear,Wet,Darkness - Street Lights Lit,2,1,40.62784,-74.02703
+ACC-2023193,2023-12-15,18:39,Austin,Minor,Clear,Wet,Daylight,1,1,30.23683,-97.73708
+ACC-2023194,2024-01-30,17:44,Denver,Minor,Rainy,Wet,Daylight,2,1,39.75287,-104.91525
+ACC-2023195,2023-03-04,19:57,Los Angeles,Serious,Snow,Snow,Darkness - Street Lights Lit,1,1,34.09022,-118.26678
+ACC-2023196,2023-06-27,06:16,Philadelphia,Serious,Rainy,Wet,Daylight,1,1,39.91666,-75.14552
+ACC-2023197,2023-02-25,17:15,Los Angeles,Minor,Clear,Dry,Daylight,1,0,33.99939,-118.17044
+ACC-2023198,2023-08-30,07:00,Los Angeles,Minor,Snow,Wet,Daylight,2,1,34.09938,-118.26247
+ACC-2023199,2023-11-30,08:20,Chicago,Serious,Clear,Dry,Daylight,2,1,41.80957,-87.57565
+ACC-2023200,2024-03-11,22:26,Philadelphia,Fatal,Overcast,Dry,Darkness - No Lights,2,1,39.94802,-75.11569
+ACC-2023201,2024-05-07,12:56,Seattle,Minor,Clear,Dry,Daylight,2,0,47.54242,-122.35608
+ACC-2023202,2023-11-25,19:56,Chicago,Minor,Foggy,Dry,Darkness - Street Lights Lit,1,0,41.87831,-87.62792
+ACC-2023203,2023-05-12,10:47,Chicago,Serious,Clear,Dry,Daylight,1,1,41.8601,-87.60489
+ACC-2023204,2023-07-27,14:20,Phoenix,Minor,Clear,Dry,Daylight,1,0,33.4057,-112.0797
+ACC-2023205,2023-05-14,19:48,Los Angeles,Minor,Clear,Dry,Darkness - Street Lights Lit,1,0,34.05701,-118.22312
+ACC-2023206,2023-12-08,08:10,Los Angeles,Serious,Clear,Dry,Daylight,2,1,34.08066,-118.28869
+ACC-2023207,2024-04-14,01:39,New York,Minor,Clear,Wet,Darkness - Street Lights Lit,3,0,40.65144,-73.95489
+ACC-2023208,2024-04-12,17:48,Philadelphia,Serious,Clear,Dry,Daylight,1,1,39.96589,-75.19514
+ACC-2023209,2023-02-09,21:03,Philadelphia,Minor,Overcast,Dry,Dusk/Dawn,1,1,40.01465,-75.16057
+ACC-2023210,2023-12-15,09:31,Chicago,Serious,Clear,Dry,Daylight,2,1,41.92527,-87.6271
+ACC-2023211,2023-01-30,18:46,Chicago,Minor,Clear,Dry,Daylight,1,0,41.96053,-87.55959
+ACC-2023212,2023-12-25,07:59,Chicago,Minor,Overcast,Wet,Daylight,1,0,41.86814,-87.59094
+ACC-2023213,2023-11-25,06:26,New York,Minor,Clear,Dry,Daylight,2,0,40.73862,-73.95125
+ACC-2023214,2024-05-08,14:08,New York,Minor,Rainy,Wet,Daylight,2,0,40.6742,-73.97856
+ACC-2023215,2023-04-25,10:19,Philadelphia,Minor,Clear,Dry,Daylight,1,0,39.99494,-75.23555
+ACC-2023216,2023-03-21,16:02,Chicago,Serious,Overcast,Dry,Daylight,3,1,41.83077,-87.71137
+ACC-2023217,2023-02-21,19:38,Los Angeles,Minor,Rainy,Flooded,Dusk/Dawn,1,0,34.04142,-118.215
+ACC-2023218,2024-02-02,09:18,Philadelphia,Minor,Clear,Dry,Daylight,2,1,40.01269,-75.16224
+ACC-2023219,2023-05-02,17:42,Dallas,Minor,Clear,Dry,Daylight,2,0,32.84184,-96.8522
+ACC-2023220,2023-03-31,19:35,Philadelphia,Serious,Clear,Wet,Darkness - Street Lights Lit,2,1,39.88446,-75.16742
+ACC-2023221,2023-03-18,17:48,Chicago,Minor,Clear,Dry,Daylight,2,0,41.89346,-87.63111
+ACC-2023222,2023-01-30,19:35,Chicago,Minor,Clear,Dry,Dusk/Dawn,1,0,41.7954,-87.63336
+ACC-2023223,2023-10-02,11:03,Chicago,Minor,Clear,Dry,Daylight,2,0,41.82592,-87.60301
+ACC-2023224,2024-01-06,11:30,Dallas,Minor,Clear,Dry,Daylight,2,0,32.79136,-96.8346
+ACC-2023225,2024-01-15,08:58,Los Angeles,Minor,Clear,Dry,Daylight,2,0,34.03165,-118.28607
+ACC-2023226,2023-07-14,18:19,Dallas,Minor,Clear,Dry,Daylight,1,2,32.77419,-96.75879
+ACC-2023227,2024-03-05,17:23,Chicago,Serious,Clear,Dry,Daylight,2,1,41.83867,-87.60964
+ACC-2023228,2023-10-27,19:18,Houston,Serious,Clear,Dry,Dusk/Dawn,2,2,29.73919,-95.40151
+ACC-2023229,2023-05-12,13:46,Philadelphia,Minor,Rainy,Wet,Daylight,2,0,39.94832,-75.20661
+ACC-2023230,2023-09-08,09:41,Philadelphia,Serious,Foggy,Wet,Daylight,1,2,39.93045,-75.21312
+ACC-2023231,2023-01-04,17:04,New York,Minor,Rainy,Wet,Daylight,1,1,40.79139,-74.00459
+ACC-2023232,2023-11-12,06:31,Phoenix,Minor,Clear,Dry,Daylight,1,1,33.42041,-112.06544
+ACC-2023233,2023-05-27,09:43,Houston,Minor,Clear,Wet,Daylight,2,0,29.75591,-95.37864
+ACC-2023234,2023-11-14,18:17,Los Angeles,Fatal,Rainy,Wet,Daylight,2,1,34.07677,-118.2134
+ACC-2023235,2023-06-03,10:41,Philadelphia,Minor,Snow,Snow,Daylight,1,0,39.93138,-75.18823
+ACC-2023236,2023-11-23,07:05,Chicago,Serious,Clear,Dry,Daylight,2,2,41.8671,-87.72188
+ACC-2023237,2023-09-28,23:13,New York,Minor,Foggy,Wet,Darkness - Street Lights Lit,2,1,40.65219,-73.95133
+ACC-2023238,2023-10-06,16:11,Los Angeles,Fatal,Foggy,Damp,Daylight,2,2,34.118,-118.25366
+ACC-2023239,2023-07-23,00:10,Philadelphia,Serious,Rainy,Wet,Darkness - No Lights,2,1,39.97566,-75.15275
+ACC-2023240,2024-02-09,21:32,Philadelphia,Minor,Rainy,Wet,Dusk/Dawn,1,1,40.07576,-75.12042
+ACC-2023241,2023-11-01,18:01,Phoenix,Minor,Rainy,Wet,Daylight,1,0,33.44328,-112.11222
+ACC-2023242,2023-04-06,15:24,Chicago,Serious,Clear,Dry,Daylight,2,1,41.81384,-87.62166
+ACC-2023243,2023-12-31,11:47,New York,Minor,Clear,Dry,Daylight,2,0,40.68255,-74.06289
+ACC-2023244,2023-02-22,07:27,Dallas,Minor,Clear,Dry,Daylight,1,0,32.75084,-96.84026
+ACC-2023245,2023-11-03,13:00,New York,Minor,Clear,Dry,Daylight,2,1,40.78029,-73.97073
+ACC-2023246,2023-10-20,19:10,Denver,Minor,Clear,Dry,Darkness - Street Lights Lit,1,0,39.73888,-104.9311
+ACC-2023247,2023-02-09,17:46,Houston,Minor,Rainy,Wet,Daylight,1,0,29.76349,-95.40425
+ACC-2023248,2023-06-20,13:51,Seattle,Minor,Overcast,Dry,Daylight,2,1,47.66712,-122.31054
+ACC-2023249,2023-06-03,17:30,Phoenix,Fatal,Clear,Wet,Daylight,2,2,33.40691,-112.08161
+ACC-2023250,2023-10-22,12:24,Houston,Minor,Clear,Dry,Daylight,2,0,29.72538,-95.42511
+ACC-2023251,2023-04-03,14:01,Denver,Serious,Foggy,Damp,Daylight,2,1,39.77625,-104.91392
+ACC-2023252,2024-02-24,13:43,Philadelphia,Minor,Clear,Dry,Daylight,2,1,39.89666,-75.14268
+ACC-2023253,2023-02-07,19:37,Dallas,Serious,Clear,Dry,Darkness - Street Lights Lit,2,2,32.75067,-96.81649
+ACC-2023254,2024-04-03,14:40,Chicago,Minor,Foggy,Damp,Daylight,2,0,41.8544,-87.66436
+ACC-2023255,2023-10-16,06:41,Phoenix,Fatal,Clear,Dry,Daylight,2,1,33.45034,-112.10724
+ACC-2023256,2023-09-19,14:37,Los Angeles,Minor,Rainy,Wet,Daylight,2,1,34.06302,-118.24571
+ACC-2023257,2023-03-19,16:30,Philadelphia,Fatal,Clear,Dry,Daylight,1,3,39.94304,-75.2015
+ACC-2023258,2023-06-09,17:33,New York,Minor,Clear,Dry,Daylight,2,0,40.68973,-73.97578
+ACC-2023259,2024-02-19,10:54,Los Angeles,Serious,Clear,Dry,Daylight,3,2,34.07224,-118.2828
+ACC-2023260,2023-10-10,09:27,Houston,Minor,Foggy,Damp,Daylight,1,1,29.76437,-95.33974
+ACC-2023261,2023-01-15,11:28,Chicago,Serious,Rainy,Wet,Daylight,1,2,41.81132,-87.60807
+ACC-2023262,2023-02-02,17:23,Dallas,Minor,Clear,Dry,Daylight,2,0,32.7502,-96.77418
+ACC-2023263,2023-11-02,19:37,Phoenix,Minor,Clear,Dry,Darkness - Street Lights Lit,2,1,33.41787,-112.1462
+ACC-2023264,2023-10-30,07:20,Seattle,Minor,Clear,Dry,Daylight,2,0,47.5411,-122.33018
+ACC-2023265,2023-03-12,19:11,Chicago,Fatal,Clear,Dry,Darkness - Street Lights Lit,1,1,41.88849,-87.66597
+ACC-2023266,2023-04-06,19:39,Los Angeles,Minor,Clear,Dry,Dusk/Dawn,2,2,34.07774,-118.31016
+ACC-2023267,2023-09-11,19:26,Houston,Serious,Rainy,Wet,Dusk/Dawn,2,1,29.75776,-95.41824
+ACC-2023268,2023-04-26,17:49,New York,Serious,Clear,Dry,Daylight,2,1,40.68673,-74.0041
+ACC-2023269,2024-02-01,18:34,New York,Serious,Overcast,Dry,Daylight,2,3,40.67838,-74.02138
+ACC-2023270,2024-02-29,11:19,New York,Minor,Overcast,Dry,Daylight,2,0,40.75305,-74.02908
+ACC-2023271,2023-03-02,11:13,Austin,Minor,Overcast,Dry,Daylight,2,1,30.30063,-97.78829
+ACC-2023272,2023-03-13,11:51,New York,Minor,Clear,Dry,Daylight,2,0,40.73399,-73.94834
+ACC-2023273,2023-05-29,16:08,Philadelphia,Fatal,Snow,Snow,Daylight,4,3,39.85373,-75.19708
+ACC-2023274,2024-03-19,07:45,New York,Serious,Clear,Dry,Daylight,2,1,40.73588,-74.01412
+ACC-2023275,2023-11-18,19:04,Phoenix,Minor,Rainy,Flooded,Dusk/Dawn,1,1,33.46325,-112.09816
+ACC-2023276,2024-05-01,16:55,Chicago,Serious,Rainy,Wet,Daylight,2,2,41.88156,-87.63603
+ACC-2023277,2023-02-02,13:13,Chicago,Minor,Snow,Snow,Daylight,1,0,41.92481,-87.61962
+ACC-2023278,2023-03-08,19:50,Houston,Minor,Clear,Dry,Dusk/Dawn,2,0,29.7739,-95.38628
+ACC-2023279,2024-03-15,08:00,New York,Fatal,Snow,Icy,Daylight,4,3,40.6933,-74.0233
+ACC-2023280,2024-03-23,00:05,Los Angeles,Fatal,Rainy,Wet,Darkness - Street Lights Lit,1,1,34.06798,-118.26054
+ACC-2023281,2023-12-25,13:41,Los Angeles,Minor,Clear,Dry,Daylight,1,0,34.06379,-118.16068
+ACC-2023282,2023-08-16,09:21,Houston,Minor,Overcast,Wet,Daylight,1,0,29.79524,-95.38284
+ACC-2023283,2024-01-10,10:20,Chicago,Minor,Clear,Dry,Daylight,2,1,41.92615,-87.64612
+ACC-2023284,2023-12-13,09:36,Phoenix,Minor,Clear,Dry,Daylight,2,1,33.36688,-112.11432
+ACC-2023285,2023-07-30,19:55,New York,Minor,Clear,Dry,Dusk/Dawn,2,0,40.63797,-74.02006
+ACC-2023286,2024-02-10,08:41,Chicago,Minor,Clear,Dry,Daylight,2,1,41.87884,-87.56274
+ACC-2023287,2024-03-10,12:13,Philadelphia,Serious,Clear,Dry,Daylight,1,1,39.96568,-75.17396
+ACC-2023288,2024-05-03,08:07,Austin,Minor,Clear,Dry,Daylight,2,0,30.30038,-97.83155
+ACC-2023289,2023-06-12,09:26,Chicago,Serious,Clear,Dry,Daylight,3,2,41.88752,-87.59897
+ACC-2023290,2023-02-04,07:02,New York,Minor,Foggy,Dry,Daylight,1,1,40.65366,-73.96025
+ACC-2023291,2023-08-05,10:40,Dallas,Minor,Clear,Dry,Daylight,1,0,32.79024,-96.81361
+ACC-2023292,2024-02-18,08:25,Los Angeles,Serious,Rainy,Wet,Daylight,2,1,34.07751,-118.15287
+ACC-2023293,2024-05-03,10:15,Chicago,Minor,Clear,Dry,Daylight,2,0,41.88537,-87.61987
+ACC-2023294,2024-01-15,07:45,Philadelphia,Minor,Clear,Dry,Daylight,1,0,39.93423,-75.19919
+ACC-2023295,2023-05-13,07:47,Dallas,Fatal,Rainy,Wet,Daylight,3,1,32.80991,-96.83124
+ACC-2023296,2023-05-20,18:45,Dallas,Minor,Snow,Snow,Daylight,2,0,32.77956,-96.81611
+ACC-2023297,2023-03-27,18:49,Austin,Serious,Clear,Dry,Daylight,1,1,30.28636,-97.72975
+ACC-2023298,2024-03-17,07:30,New York,Minor,Clear,Wet,Daylight,3,0,40.7543,-74.0264
+ACC-2023299,2024-01-01,13:14,Dallas,Serious,Clear,Dry,Daylight,1,1,32.76591,-96.83615
+ACC-2023300,2023-09-15,10:11,Chicago,Minor,Clear,Dry,Daylight,1,1,41.86033,-87.61471
+ACC-2023301,2024-02-01,12:05,Austin,Minor,Rainy,Wet,Daylight,2,0,30.29748,-97.77999
+ACC-2023302,2023-08-26,19:49,Phoenix,Serious,Rainy,Wet,Darkness - Street Lights Lit,1,3,33.48318,-112.01977
+ACC-2023303,2023-10-05,16:21,New York,Serious,Clear,Dry,Daylight,2,1,40.72934,-73.93093
+ACC-2023304,2023-05-02,16:09,Houston,Fatal,Rainy,Wet,Daylight,3,2,29.72945,-95.41959
+ACC-2023305,2023-07-10,16:37,Philadelphia,Serious,Clear,Dry,Daylight,1,1,39.88145,-75.10536
+ACC-2023306,2024-05-08,08:16,Chicago,Minor,Overcast,Wet,Daylight,2,0,41.90427,-87.63202
+ACC-2023307,2023-04-30,07:08,Chicago,Minor,Rainy,Wet,Daylight,1,0,41.8893,-87.67482
+ACC-2023308,2023-10-02,17:28,Chicago,Minor,Clear,Dry,Daylight,1,1,41.97593,-87.62463
+ACC-2023309,2023-12-23,17:53,Dallas,Serious,Overcast,Dry,Daylight,3,1,32.78108,-96.76797
+ACC-2023310,2023-06-03,17:01,New York,Serious,Foggy,Dry,Daylight,2,1,40.73204,-73.99704
+ACC-2023311,2024-02-11,07:03,New York,Minor,Overcast,Wet,Daylight,2,0,40.68118,-73.98714
+ACC-2023312,2023-11-27,09:16,Phoenix,Fatal,Foggy,Damp,Daylight,1,2,33.52368,-112.02018
+ACC-2023313,2023-02-17,01:07,Dallas,Minor,Clear,Dry,Darkness - Street Lights Lit,2,0,32.84043,-96.81745
+ACC-2023314,2023-12-16,18:13,New York,Minor,Foggy,Damp,Daylight,1,1,40.67322,-74.01103
+ACC-2023315,2023-11-28,19:56,Phoenix,Minor,Rainy,Wet,Dusk/Dawn,1,1,33.45063,-112.03023
+ACC-2023316,2023-11-19,04:50,Houston,Minor,Clear,Dry,Darkness - Street Lights Lit,2,0,29.6927,-95.30862
+ACC-2023317,2023-06-14,17:01,Houston,Serious,Clear,Dry,Daylight,2,1,29.75408,-95.38688
+ACC-2023318,2023-09-29,17:10,Denver,Minor,Clear,Dry,Daylight,2,1,39.69872,-105.05649
+ACC-2023319,2024-04-30,08:22,New York,Minor,Foggy,Dry,Daylight,1,0,40.74573,-74.00307
+ACC-2023320,2023-07-03,20:45,Philadelphia,Serious,Rainy,Flooded,Darkness - Street Lights Lit,1,3,39.901,-75.217
+ACC-2023321,2023-09-10,17:31,Austin,Minor,Clear,Dry,Daylight,1,0,30.25377,-97.67634
+ACC-2023322,2023-11-11,07:21,Los Angeles,Serious,Rainy,Flooded,Daylight,2,1,34.04182,-118.30383
+ACC-2023323,2024-04-14,07:54,Houston,Minor,Clear,Dry,Daylight,2,1,29.75057,-95.38071
+ACC-2023324,2023-06-22,17:10,Houston,Serious,Rainy,Wet,Daylight,2,1,29.65252,-95.37197
+ACC-2023325,2023-10-15,14:50,Philadelphia,Serious,Clear,Dry,Daylight,2,2,39.94336,-75.13735
+ACC-2023326,2023-04-01,15:36,Los Angeles,Fatal,Clear,Wet,Daylight,1,2,34.12616,-118.19864
+ACC-2023327,2024-05-10,16:59,Seattle,Minor,Clear,Dry,Daylight,1,0,47.59544,-122.37636
+ACC-2023328,2024-05-08,09:42,Phoenix,Minor,Rainy,Flooded,Daylight,1,0,33.55133,-112.07163
+ACC-2023329,2023-05-12,15:00,New York,Minor,Clear,Dry,Daylight,1,0,40.71336,-74.00697
+ACC-2023330,2023-06-29,16:53,Austin,Minor,Clear,Dry,Daylight,2,0,30.27512,-97.74887
+ACC-2023331,2024-03-09,07:20,New York,Minor,Clear,Dry,Daylight,2,0,40.68985,-74.02787
+ACC-2023332,2024-04-27,21:21,New York,Minor,Rainy,Wet,Darkness - Street Lights Lit,2,0,40.71149,-74.02774
+ACC-2023333,2023-03-22,08:13,Austin,Serious,Snow,Icy,Daylight,3,1,30.23869,-97.73884
+ACC-2023334,2023-06-02,07:25,Phoenix,Minor,Rainy,Wet,Daylight,1,0,33.4382,-112.01384
+ACC-2023335,2023-12-05,19:12,Los Angeles,Fatal,Clear,Dry,Darkness - Street Lights Lit,2,1,33.94616,-118.20004
+ACC-2023336,2023-08-30,18:05,Dallas,Minor,Rainy,Wet,Daylight,1,0,32.82654,-96.87994
+ACC-2023337,2023-08-14,17:53,New York,Serious,Clear,Dry,Daylight,2,1,40.69909,-74.02086
+ACC-2023338,2023-10-05,17:35,Chicago,Minor,Clear,Dry,Daylight,3,1,41.8218,-87.66091
+ACC-2023339,2023-10-21,03:19,Seattle,Minor,Clear,Dry,Darkness - Street Lights Lit,2,1,47.56178,-122.26201
+ACC-2023340,2023-11-14,08:11,Philadelphia,Minor,Foggy,Damp,Daylight,1,0,39.99003,-75.11434
+ACC-2023341,2023-12-16,17:53,New York,Serious,Rainy,Wet,Daylight,2,1,40.74167,-74.05116
+ACC-2023342,2023-10-10,18:33,Houston,Serious,Clear,Dry,Daylight,2,1,29.73942,-95.35023
+ACC-2023343,2023-08-01,09:37,Chicago,Minor,Rainy,Dry,Daylight,1,1,41.82921,-87.60128
+ACC-2023344,2024-03-20,18:56,Dallas,Minor,Clear,Dry,Daylight,2,0,32.76709,-96.81199
+ACC-2023345,2023-03-15,19:02,Los Angeles,Minor,Clear,Dry,Darkness - Street Lights Lit,2,0,34.08064,-118.22593
+ACC-2023346,2023-06-22,12:19,Chicago,Serious,Clear,Dry,Daylight,1,2,41.86366,-87.58343
+ACC-2023347,2024-05-13,12:17,New York,Minor,Rainy,Wet,Daylight,1,1,40.66956,-73.98136
+ACC-2023348,2023-09-06,12:52,Chicago,Minor,Clear,Dry,Daylight,2,0,41.90182,-87.64218
+ACC-2023349,2023-09-26,10:11,Dallas,Serious,Clear,Dry,Daylight,1,1,32.78975,-96.84704
+ACC-2023350,2023-12-27,08:52,Seattle,Fatal,Clear,Dry,Daylight,2,1,47.64316,-122.3395
+ACC-2023351,2023-08-17,08:37,Houston,Serious,Rainy,Wet,Daylight,1,2,29.73949,-95.32784
+ACC-2023352,2023-01-15,17:54,New York,Fatal,Rainy,Dry,Daylight,2,2,40.68463,-74.06234
+ACC-2023353,2023-07-29,16:30,Los Angeles,Serious,Foggy,Wet,Daylight,1,1,33.98993,-118.21946
+ACC-2023354,2023-06-06,15:41,Dallas,Serious,Clear,Dry,Daylight,2,1,32.72548,-96.72681
+ACC-2023355,2023-09-24,13:37,Los Angeles,Serious,Clear,Dry,Daylight,2,1,33.96892,-118.17584
+ACC-2023356,2023-11-08,16:30,Phoenix,Minor,Clear,Wet,Daylight,2,0,33.45684,-112.07787
+ACC-2023357,2024-04-01,11:09,Philadelphia,Minor,Clear,Dry,Daylight,2,1,39.9308,-75.14923
+ACC-2023358,2023-06-13,15:01,Chicago,Minor,Rainy,Dry,Daylight,1,0,41.87659,-87.58567
+ACC-2023359,2023-12-29,23:21,New York,Serious,Rainy,Wet,Darkness - Street Lights Lit,3,2,40.71737,-73.99999
+ACC-2023360,2024-03-08,09:56,Houston,Minor,Rainy,Wet,Daylight,2,1,29.74586,-95.37208
+ACC-2023361,2024-04-12,09:57,Houston,Minor,Clear,Dry,Daylight,2,0,29.77271,-95.43821
+ACC-2023362,2023-06-19,18:29,Dallas,Serious,Overcast,Dry,Daylight,2,3,32.72277,-96.76727
+ACC-2023363,2024-03-31,07:55,New York,Minor,Rainy,Wet,Daylight,2,0,40.71963,-74.01336
+ACC-2023364,2023-06-25,19:09,Denver,Minor,Clear,Dry,Darkness - Street Lights Lit,2,0,39.73994,-104.9764
+ACC-2023365,2023-01-03,17:48,Phoenix,Minor,Rainy,Wet,Daylight,2,1,33.42681,-112.10513
+ACC-2023366,2023-08-11,19:27,New York,Minor,Snow,Icy,Dusk/Dawn,1,0,40.72063,-74.04513
+ACC-2023367,2024-03-02,16:43,Los Angeles,Minor,Clear,Dry,Daylight,2,0,34.06853,-118.3118
+ACC-2023368,2023-09-15,17:04,New York,Minor,Overcast,Dry,Daylight,2,0,40.75397,-73.9871
+ACC-2023369,2024-03-30,11:21,Los Angeles,Serious,Snow,Icy,Daylight,1,3,34.06244,-118.20439
+ACC-2023370,2023-01-10,09:08,Dallas,Minor,Clear,Dry,Daylight,1,1,32.84332,-96.75643
+ACC-2023371,2023-07-12,12:49,Dallas,Fatal,Clear,Dry,Daylight,2,2,32.70307,-96.84818
+ACC-2023372,2023-12-20,08:24,New York,Serious,Clear,Dry,Daylight,1,2,40.68781,-74.00496
+ACC-2023373,2023-08-04,15:33,New York,Minor,Clear,Dry,Daylight,2,0,40.73351,-74.03503
+ACC-2023374,2023-03-02,16:31,Philadelphia,Minor,Clear,Dry,Daylight,2,0,39.96007,-75.19542
+ACC-2023375,2023-06-01,09:31,Philadelphia,Minor,Foggy,Wet,Daylight,1,0,39.92814,-75.22147
+ACC-2023376,2023-02-26,15:31,New York,Minor,Clear,Dry,Daylight,2,0,40.67587,-74.06007
+ACC-2023377,2023-04-29,18:16,Los Angeles,Minor,Clear,Dry,Daylight,1,0,34.01317,-118.20155
+ACC-2023378,2023-06-10,16:06,Dallas,Minor,Overcast,Dry,Daylight,1,1,32.73872,-96.6917
+ACC-2023379,2024-04-02,18:56,Los Angeles,Minor,Rainy,Wet,Daylight,1,0,34.07193,-118.23631
+ACC-2023380,2024-03-03,19:51,Chicago,Minor,Clear,Dry,Dusk/Dawn,2,2,41.84377,-87.60179
+ACC-2023381,2023-02-23,19:51,Austin,Serious,Rainy,Wet,Darkness - Street Lights Lit,2,2,30.24417,-97.73822
+ACC-2023382,2024-01-08,22:30,Austin,Minor,Foggy,Damp,Darkness - Street Lights Lit,1,0,30.3696,-97.74694
+ACC-2023383,2023-12-14,17:42,Philadelphia,Serious,Overcast,Dry,Daylight,2,1,39.99857,-75.19333
+ACC-2023384,2023-09-04,19:09,Philadelphia,Minor,Overcast,Dry,Darkness - Street Lights Lit,2,0,39.9512,-75.09437
+ACC-2023385,2024-03-12,17:04,Austin,Minor,Rainy,Wet,Daylight,1,0,30.24212,-97.6706
+ACC-2023386,2023-07-13,17:05,Houston,Minor,Clear,Dry,Daylight,2,0,29.78871,-95.3923
+ACC-2023387,2023-09-12,10:06,New York,Minor,Clear,Dry,Daylight,2,1,40.7381,-73.9671
+ACC-2023388,2023-11-23,17:41,Denver,Minor,Rainy,Dry,Daylight,1,0,39.76407,-105.05311
+ACC-2023389,2023-10-14,14:30,Chicago,Minor,Rainy,Wet,Daylight,1,1,41.84901,-87.6397
+ACC-2023390,2023-07-01,12:35,New York,Minor,Clear,Dry,Daylight,1,0,40.70982,-73.98117
+ACC-2023391,2024-01-05,18:39,Philadelphia,Serious,Clear,Dry,Daylight,1,2,39.95971,-75.21861
+ACC-2023392,2023-06-23,08:02,Los Angeles,Serious,Foggy,Dry,Daylight,2,1,34.06741,-118.21928
+ACC-2023393,2024-05-04,19:00,Phoenix,Serious,Clear,Dry,Darkness - Street Lights Lit,2,1,33.47079,-112.03077
+ACC-2023394,2023-04-01,11:46,Seattle,Minor,Overcast,Dry,Daylight,2,0,47.63956,-122.31373
+ACC-2023395,2023-08-03,23:17,Austin,Serious,Clear,Dry,Darkness - Street Lights Lit,1,1,30.26439,-97.80954
+ACC-2023396,2023-09-20,18:45,Austin,Minor,Rainy,Wet,Daylight,1,1,30.28438,-97.73479
+ACC-2023397,2024-04-16,15:41,Philadelphia,Minor,Snow,Icy,Daylight,2,1,39.96346,-75.21627
+ACC-2023398,2023-10-15,19:43,Dallas,Serious,Rainy,Wet,Dusk/Dawn,2,1,32.73346,-96.75487
+ACC-2023399,2023-03-16,07:12,New York,Fatal,Clear,Dry,Daylight,2,1,40.71122,-73.97874
+ACC-2023400,2024-02-06,16:22,New York,Serious,Overcast,Dry,Daylight,2,2,40.71393,-74.00481
+ACC-2023401,2023-10-15,18:44,Philadelphia,Minor,Rainy,Flooded,Daylight,3,2,39.99013,-75.18584
+ACC-2023402,2023-10-10,09:16,Los Angeles,Serious,Clear,Dry,Daylight,2,1,34.05604,-118.26219
+ACC-2023403,2023-12-30,17:49,Phoenix,Minor,Rainy,Wet,Daylight,3,0,33.43102,-112.08637
+ACC-2023404,2024-01-12,19:02,Denver,Minor,Clear,Dry,Dusk/Dawn,1,0,39.74809,-105.00945
+ACC-2023405,2023-03-21,08:38,Philadelphia,Minor,Clear,Wet,Daylight,2,0,40.00283,-75.20098
+ACC-2023406,2023-07-03,09:20,Houston,Minor,Clear,Wet,Daylight,2,0,29.75293,-95.38739
+ACC-2023407,2023-07-26,07:56,Houston,Minor,Clear,Dry,Daylight,1,1,29.81828,-95.36194
+ACC-2023408,2023-10-15,15:00,Houston,Minor,Clear,Dry,Daylight,2,1,29.80167,-95.42922
+ACC-2023409,2023-01-21,12:24,Los Angeles,Minor,Foggy,Dry,Daylight,2,0,34.06288,-118.20811
+ACC-2023410,2024-02-25,14:51,Seattle,Minor,Clear,Dry,Daylight,2,0,47.60949,-122.28948
+ACC-2023411,2023-02-19,09:34,New York,Serious,Clear,Dry,Daylight,2,2,40.69211,-73.94963
+ACC-2023412,2023-02-23,09:56,Chicago,Serious,Snow,Snow,Daylight,3,2,41.97006,-87.64431
+ACC-2023413,2023-08-24,10:05,New York,Minor,Clear,Dry,Daylight,1,1,40.69498,-73.94786
+ACC-2023414,2023-07-28,19:27,Seattle,Minor,Clear,Dry,Dusk/Dawn,2,0,47.66938,-122.35301
+ACC-2023415,2023-01-24,10:22,Philadelphia,Serious,Foggy,Damp,Daylight,2,1,39.93579,-75.17647
+ACC-2023416,2023-08-13,16:30,Dallas,Serious,Clear,Dry,Daylight,2,2,32.72292,-96.83375
+ACC-2023417,2023-11-21,09:56,Los Angeles,Serious,Foggy,Wet,Daylight,2,3,34.01203,-118.27441
+ACC-2023418,2023-10-12,07:00,Houston,Minor,Rainy,Wet,Daylight,1,0,29.75901,-95.36043
+ACC-2023419,2024-01-07,19:57,Philadelphia,Minor,Rainy,Wet,Dusk/Dawn,2,0,40.01462,-75.20513
+ACC-2023420,2024-02-14,16:54,Los Angeles,Minor,Rainy,Dry,Daylight,2,0,34.09157,-118.25226
+ACC-2023421,2023-05-09,09:37,Philadelphia,Minor,Clear,Dry,Daylight,2,0,39.95062,-75.13821
+ACC-2023422,2024-04-05,08:28,Phoenix,Serious,Clear,Dry,Daylight,1,1,33.40349,-112.0587
+ACC-2023423,2024-05-05,16:20,Dallas,Serious,Clear,Dry,Daylight,2,2,32.78336,-96.7773
+ACC-2023424,2024-01-11,19:29,New York,Minor,Clear,Dry,Darkness - Street Lights Lit,2,0,40.72437,-73.90779
+ACC-2023425,2024-02-28,09:12,Los Angeles,Minor,Clear,Dry,Daylight,1,0,34.02669,-118.26494
+ACC-2023426,2023-01-16,14:25,Houston,Minor,Rainy,Wet,Daylight,1,1,29.73547,-95.39202
+ACC-2023427,2023-12-01,12:25,Houston,Serious,Clear,Dry,Daylight,1,1,29.7349,-95.32224
+ACC-2023428,2023-07-23,16:42,Houston,Fatal,Clear,Wet,Daylight,2,2,29.81722,-95.39263
+ACC-2023429,2023-03-23,09:42,New York,Serious,Overcast,Dry,Daylight,3,1,40.67951,-73.98714
+ACC-2023430,2023-04-29,08:14,Dallas,Fatal,Clear,Dry,Daylight,2,1,32.75461,-96.77168
+ACC-2023431,2023-01-24,09:20,Chicago,Minor,Clear,Wet,Daylight,1,1,41.88622,-87.69043
+ACC-2023432,2023-10-19,09:24,Houston,Serious,Clear,Dry,Daylight,2,1,29.8223,-95.29796
+ACC-2023433,2023-09-22,18:31,Seattle,Minor,Rainy,Flooded,Daylight,2,0,47.58169,-122.34761
+ACC-2023434,2023-09-21,17:09,Los Angeles,Serious,Clear,Dry,Daylight,1,1,34.06363,-118.23032
+ACC-2023435,2024-01-04,09:30,Dallas,Minor,Clear,Dry,Daylight,1,0,32.80304,-96.71659
+ACC-2023436,2023-10-31,09:32,New York,Minor,Clear,Dry,Daylight,1,0,40.70572,-74.03793
+ACC-2023437,2023-11-03,06:01,Denver,Serious,Overcast,Dry,Daylight,3,1,39.68403,-105.01954
+ACC-2023438,2023-08-30,11:14,Phoenix,Serious,Overcast,Dry,Daylight,2,1,33.44707,-112.00222
+ACC-2023439,2023-05-16,09:21,Phoenix,Minor,Foggy,Wet,Daylight,1,0,33.4277,-112.06505
+ACC-2023440,2023-09-25,14:43,New York,Minor,Clear,Dry,Daylight,2,1,40.71214,-73.95846
+ACC-2023441,2024-02-06,16:05,New York,Minor,Clear,Dry,Daylight,2,1,40.81388,-74.02723
+ACC-2023442,2023-11-29,19:23,Dallas,Fatal,Overcast,Dry,Darkness - Street Lights Lit,2,2,32.75712,-96.75523
+ACC-2023443,2024-02-16,15:36,Chicago,Minor,Clear,Dry,Daylight,1,1,41.90538,-87.55593
+ACC-2023444,2024-03-24,18:12,Los Angeles,Minor,Clear,Dry,Daylight,2,0,34.07556,-118.25807
+ACC-2023445,2023-04-16,12:26,Chicago,Minor,Clear,Dry,Daylight,1,1,41.90173,-87.58545
+ACC-2023446,2023-07-07,19:48,Chicago,Minor,Clear,Dry,Darkness - Street Lights Lit,2,0,41.91092,-87.60951
+ACC-2023447,2023-10-23,19:47,Denver,Minor,Clear,Dry,Dusk/Dawn,2,1,39.78187,-104.94353
+ACC-2023448,2023-09-18,18:51,New York,Serious,Rainy,Wet,Daylight,1,3,40.76809,-73.98005
+ACC-2023449,2023-02-16,13:59,New York,Minor,Rainy,Wet,Daylight,1,1,40.70612,-74.00013
+ACC-2023450,2024-04-21,05:41,Philadelphia,Fatal,Clear,Dry,Darkness - Street Lights Lit,3,2,40.00086,-75.19788
+ACC-2023013,2024-05-03,15:16,Chicago,Minor,Snow,Snow,Daylight,1,1,41.85632,-87.62536
+ACC-2023046,2023-12-11,17:09,Philadelphia,Minor,Clear,Dry,Daylight,2,0,39.95648,-75.12645
+ACC-2023089,2023-10-10,13:29,Chicago,Fatal,Foggy,Dry,Daylight,2,1,41.87862,-87.57166
